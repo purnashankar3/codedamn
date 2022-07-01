@@ -1,0 +1,1 @@
+It should pass all the test cases
